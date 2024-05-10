@@ -9,7 +9,6 @@ If you'd like to contribute, please fork and create a PR. **Everything needs to 
 |--- |--- |--- |--- |
 |![Aclima](https://www.google.com/s2/favicons?domain=https://aclima.io)|<a href='https://aclima.io'> Aclima </a>|📍 San Francisco, CA|<a href='https://aclima.io/careers'> Careers at Aclima</a>|
 |![Adjust](https://www.google.com/s2/favicons?domain=https://www.adjust.com/)|<a href='https://www.adjust.com/'> Adjust </a>|📍 Global|<a href='https://www.adjust.com/company/careers/jobs/'> Careers at Adjust</a>|
-|![Adobe](https://www.google.com/s2/favicons?domain=https://www.adobe.com/)|<a href='https://www.adobe.com/'> Adobe </a>|📍 San Jose, CA|<a href='https://adobe.wd5.myworkdayjobs.com/external_experienced?jobFamilyGroup=591af8b812fa10737af39db3d96eed9f'> Careers at Adobe</a>|
 |![Affirm](https://www.google.com/s2/favicons?domain=https://www.affirm.com/)|<a href='https://www.affirm.com/'> Affirm </a>|📍 San Francisco, CA|<a href='https://www.affirm.com/careers'> Careers at Affirm</a>|
 |![Afterpay](https://www.google.com/s2/favicons?domain=https://www.afterpay.com/en-US)|<a href='https://www.afterpay.com/en-US'> Afterpay </a>|📍 Melbourne, Australia|<a href='https://careers.afterpay.com/'> Careers at Afterpay</a>|
 |![Airbnb](https://www.google.com/s2/favicons?domain=https://www.airbnb.com/)|<a href='https://www.airbnb.com/'> Airbnb </a>|📍 San Francisco, CA|<a href='https://careers.airbnb.com/'> Careers at Airbnb</a>|
